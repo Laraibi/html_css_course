@@ -1,5 +1,5 @@
 h2 {
-  color: green;
+  color: black;
   /* background-color: #fff98c; */
   /* background-image: url("images/maroc.jpeg"); */
 }
@@ -39,3 +39,5 @@ ul {
   list-style: none;
   justify-content: space-between;
 }
+
+
