@@ -1,0 +1,37 @@
+h2 {
+  color: green;
+  /* background-color: #fff98c; */
+  /* background-image: url("images/maroc.jpeg"); */
+}
+h1 {
+  /* background-image: url("images/maroc.jpeg"); */
+  background-repeat: no-repeat;
+  background-size: cover !important;
+
+}
+h2#title1 {
+  text-decoration: underline;
+  border: solid 1px rgb(190, 80, 28);
+  display: inline;
+}
+p{
+    /* display: inline; */
+}
+.paragraphsCentred {
+  text-align: center;
+}
+img {
+  /* border-left: solid 1px yellow; */
+  border: groove 5px blue;
+  /* border-radius: 5px 15px 10px 90px; */
+  width: 100px;
+  height: 50px;
+}
+#firstPara {
+  background-color: green;
+  border: solid 1px blue;
+  padding-top: 20px;
+  margin-right: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
