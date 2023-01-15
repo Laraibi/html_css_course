@@ -7,15 +7,14 @@ h1 {
   /* background-image: url("images/maroc.jpeg"); */
   background-repeat: no-repeat;
   background-size: cover !important;
-
 }
 h2#title1 {
   text-decoration: underline;
   border: solid 1px rgb(190, 80, 28);
   display: inline;
 }
-p{
-    /* display: inline; */
+p {
+  /* display: inline; */
 }
 .paragraphsCentred {
   text-align: center;
@@ -34,4 +33,9 @@ img {
   margin-right: 20px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
 }
